@@ -1,0 +1,8 @@
+C:\Users\hızır\Desktop\Factory_Metot_Desing\Factory_Metot_Desing\bin\Debug\Factory_Metot_Desing.exe.config
+C:\Users\hızır\Desktop\Factory_Metot_Desing\Factory_Metot_Desing\bin\Debug\Factory_Metot_Desing.exe
+C:\Users\hızır\Desktop\Factory_Metot_Desing\Factory_Metot_Desing\bin\Debug\Factory_Metot_Desing.pdb
+C:\Users\hızır\Desktop\Factory_Metot_Desing\Factory_Metot_Desing\obj\Debug\Factory_Metot_Desing.csproj.AssemblyReference.cache
+C:\Users\hızır\Desktop\Factory_Metot_Desing\Factory_Metot_Desing\obj\Debug\Factory_Metot_Desing.csproj.SuggestedBindingRedirects.cache
+C:\Users\hızır\Desktop\Factory_Metot_Desing\Factory_Metot_Desing\obj\Debug\Factory_Metot_Desing.csproj.CoreCompileInputs.cache
+C:\Users\hızır\Desktop\Factory_Metot_Desing\Factory_Metot_Desing\obj\Debug\Factory_Metot_Desing.exe
+C:\Users\hızır\Desktop\Factory_Metot_Desing\Factory_Metot_Desing\obj\Debug\Factory_Metot_Desing.pdb
